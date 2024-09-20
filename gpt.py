@@ -1,6 +1,5 @@
 import openai
-API_key = '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'
-# Установите ваш API ключ
+API_key = 'Apik key'
 openai.api_key = API_key
 
 def load_text_from_file(file_path):
